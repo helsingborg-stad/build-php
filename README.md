@@ -1,6 +1,9 @@
 # Municipio Build PHP
 
-This is a file specifically created to build municipio packages. 
+This file is specifically created to build Municipio packages.
 
 ## How to use
-`wget https://build.getmunicipio.com/ > build.php && php build.php`
+
+```sh
+wget https://build.municipio.tech -O build.php && php build.php
+```
