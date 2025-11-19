@@ -17,3 +17,6 @@ The script includes a feature to remove files during the build process. This hel
 ## License
 
 Licenced under MIT License. 
+
+### Author
+Sebastian Thulin
