@@ -25,4 +25,3 @@ jobs:
           publish_dir: ./output
           destination_dir: .
           keep_files: false
-          enable_jekyll: false
